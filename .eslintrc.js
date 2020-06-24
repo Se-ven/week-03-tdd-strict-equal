@@ -22,7 +22,7 @@ module.exports = {
     "func-call-spacing": ["error", "never"],
     "function-paren-newline": ["error", "never"],
     "implicit-arrow-linebreak": ["error", "beside"],
-    "indent": ["error", 2, { "SwitchCase": 1 }],
+    "indent": ["error", 4, { "SwitchCase": 1 }],
     "key-spacing": ["error", { "afterColon": true }],
     "keyword-spacing": ["error", { "before": true, "after": true }],
     "linebreak-style": ["error", "unix"],
